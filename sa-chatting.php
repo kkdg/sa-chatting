@@ -12,17 +12,17 @@
  * @copyright 2014 Your Name or Company Name
  *
  * @wordpress-plugin
- * Plugin Name:       @TODO
- * Plugin URI:        @TODO
- * Description:       @TODO
- * Version:           1.0.0
- * Author:            @TODO
- * Author URI:        @TODO
+ * Plugin Name:       SA-Chatting
+ * Plugin URI:        http://www.skyaperture.com/plugin/chatting
+ * Description:       This plugin makes you easily install chatting widget into your wordpress.
+ * Version:           0.1.0
+ * Author:            Dr.DeX
+ * Author URI:        http://wwww.wordpressure.co.kr/
  * Text Domain:       sa-chatting-locale
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Domain Path:       /languages
- * GitHub Plugin URI: https://github.com/<owner>/<repo>
+ * Domain Path:       /lang
+ * GitHub Plugin URI: https://github.com/kkdg/sa-chatting
  */
 
 // If this file is called directly, abort.
